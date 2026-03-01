@@ -6,6 +6,8 @@ topics: ["playdate", "ai", "lua", "python", "chatbot"]
 published: true
 ---
 
+![CrankBot Demo](https://raw.githubusercontent.com/Narratify/CrankBot/main/docs/demo.gif)
+
 夜中の二時、部屋の明かりを落としてクランクを回す。カリカリという小さな抵抗が指先に伝わってきて、画面の文字が一行ずつせり上がる。白と黒しかない。400×240ピクセル、1ビット。AIの言葉が、手の動きと同じ速度で現れる。
 
 これが[CrankBot](https://github.com/Narratify/CrankBot)——Playdate用のAIチャットボット。Lua約500行とPython約80行。MITライセンス。
